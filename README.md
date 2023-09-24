@@ -1,5 +1,5 @@
 <h3 align="center" width="40">
-  ¡Hola! 👋 Soy @fernando-nasso !
+  ¡Hola! 👋 Soy @FernandoNasso !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
